@@ -1,0 +1,4 @@
+1. Tworzysz aplikacjê konsolow¹ w C++.
+2. Aplikacja ma pobieraæ od u¿ytkownika s³owo.
+3. Aplikacja wyœwietla czy dane s³owo jest palindromem czy nie.
+4. Dodatkowo wynik ma byæ wyœwietlany odpowiednio dla pozytywnego scenariusza w kolorze zielonym a dla negatywnego w czerwonym.
